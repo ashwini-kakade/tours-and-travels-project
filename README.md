@@ -1,2 +1,4 @@
 # tours-and-travels-project
-this is TOURS and TRAVELS project 
+This is TOURS and TRAVELS project 
+to booking cars for traveling 
+It is online based website
